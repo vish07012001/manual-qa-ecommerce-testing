@@ -61,7 +61,7 @@ Blocked: 0
 
 ## Repository Structure
 ```
-QA-SauceDemo-Testing
+manual-qa-ecommerce-testing
 │
 ├── README.md
 ├── TestCases.xlsx
