@@ -60,7 +60,7 @@ Blocked: 0
 2. Reset state does not remove items from cart
 
 ## Repository Structure
-
+```
 QA-SauceDemo-Testing
 │
 ├── README.md
@@ -78,8 +78,7 @@ QA-SauceDemo-Testing
     ├── Checkout_Empty_Cart.png
     ├── Empty_Cart.png
     ├── Jira_Bug_Report.png
-
-
+```
 ---
 
 ## 👤 Author
