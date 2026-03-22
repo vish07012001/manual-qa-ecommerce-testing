@@ -49,8 +49,8 @@ Bugs were reported and tracked using Jira.
 
 ## Test Execution Summary
 
-Total Test Cases: 18  
-Passed: 16  
+Total Test Cases: 17  
+Passed: 15  
 Failed: 2  
 Blocked: 0  
 
